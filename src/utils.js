@@ -1,4 +1,4 @@
-export const API_URL = "https://g2ru4yg3fti4meyiu7a25ifawa0thdcc.lambda-url.us-east-2.on.aws";
+export const API_URL = "https://ayvhtx7bmqd7vqkxhyjopdod6m0wxlyj.lambda-url.us-east-2.on.aws";
 
 /**
  * Sends a POST request to the backend to get a response from the AI.
